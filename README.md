@@ -3,7 +3,7 @@
 <hr>
 
 <h4>Descrição 📄</h4>
-Link da aplicação:  <br/>
+Link da aplicação:  (https://moonlit-twilight-2c920e.netlify.app/)<br/>
 Aplicação desenvolvida para listar e visualizar tarefas, com o objetivo de colocar em práticas a biblioteca de desenvolvimento de interfaces React JS.
 
 <hr>

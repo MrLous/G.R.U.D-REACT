@@ -25,7 +25,7 @@ Aplicação desenvolvida para listar e visualizar tarefas, com o objetivo de col
 
 ```
 # clone esse repositório
-$ git clone https://github.com/MrLous/C.R.U.D-react_DNC
+$ git clone https://github.com/MrLous/C.R.U.D-REACT
 
 # acesse a pasta do projeto
 $ cd C.R.U.D

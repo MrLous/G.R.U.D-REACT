@@ -1,0 +1,27 @@
+button {
+    margin:0 8px;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 1.1rem;
+    cursor: pointer;
+}
+.blue {
+    width: 180px !important;
+    background-color: #0C70F2;
+    color: white;
+    transition-duration: 0.5s;
+    &:hover {
+        transform: translateY(-5px);
+        transition-duration: 0.5s;
+    }
+}
+.white {
+    width: 200px;
+    background-color: white;
+    color: #2D2D2D;
+    &:hover {
+        transform: translateY(-5px);
+        transition-duration: 0.5s;
+    }
+} 

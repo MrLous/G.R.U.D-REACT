@@ -38,15 +38,9 @@ $ npm run dev
 ```
 <hr>
 
-<div className="Div__Dev">
-    <ul>
-    	<li>
-		  <a href='https://wa.me//5516992925034' target='_blank'><img src="./src/dev/whatsApp.svg" /></a></li>
-    	<li>
-		  <a href='https://github.com/MrLous' target='_blank'><img src="./src/dev/git.svg" /></a></li>
-    	<li>
-		  <a href='https://www.linkedin.com/in/ricardoluizjr/' target='_blank'><img src="./src/dev/linkdin.svg"/></a>
-		<li>
-    </ul>
-    <h4>by juh</h4>
+<div>
+<a href='https://wa.me//5516992925034' target='_blank'><img src="./src/dev/whatsApp.svg" /></a></li>
+<a href='https://github.com/MrLous' target='_blank'><img src="./src/dev/git.svg" /></a></li>
+<a href='https://www.linkedin.com/in/ricardoluizjr/' target='_blank'><img src="./src/dev/linkdin.svg"/></a>	
+<h4>by juh</h4>
 </div>
